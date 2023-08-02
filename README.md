@@ -1,6 +1,6 @@
 # Ekansh Sharma
 
-Passionate robotics enthusiast and researcher. Experienced in configuring and programming robot. Committed to continuous learning and overcoming challenges. Open-source contributor to projects focused on robotics. Excited to collaborate and contribute to innovative developments in the field. Let's shape the future together!
+Passionate robotics enthusiast and researcher. Open-source contributor to projects focused on robotics. Excited to collaborate and contribute to innovative developments in the field. Let's shape the future together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ekansh%20Sharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ekansh-sharma/)
 ---
