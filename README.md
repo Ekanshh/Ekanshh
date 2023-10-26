@@ -5,10 +5,6 @@ Passionate robotics enthusiast and researcher. Open-source contributor to projec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ekansh%20Sharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ekansh-sharma/)
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekanshh&show_icons=true&theme=dark&count_private=true)
-
 ### Top Skills
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
